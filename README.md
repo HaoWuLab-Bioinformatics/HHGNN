@@ -2,7 +2,7 @@
 HHGNN: Hyperbolic Hypergraph Convolutional Neural Network Based on Variational Autoencoder
 
 ## The framework of HHGNN
-![image](Figure1.jpg)
+![image]([Figure1.jpg](https://github.com/HaoWuLab-Bioinformatics/HHGNN/blob/master/model.png))
 
 ## Overview
 The folder "**data**" contains all data used.  
@@ -16,12 +16,12 @@ The folder "**utils**" contains function definition, data set import and other c
 
 ## Dependency
 Mainly used libraries:  
-Python 3.9.15 
-numpy==1.16.2
-scikit-learn==0.20.3
-torch==1.1.0
-torchvision==0.2.2
-networkx==2.2
+Python 3.9.15  
+numpy==1.16.2  
+scikit-learn==0.20.3  
+torch==1.1.0  
+torchvision==0.2.2  
+networkx==2.2  
 
 numpy   
 See "**requirements.txt"** for all detailed libraries.  
