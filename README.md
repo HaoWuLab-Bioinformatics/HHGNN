@@ -2,7 +2,7 @@
 HHGNN: Hyperbolic Hypergraph Convolutional Neural Network Based on Variational Autoencoder
 
 ## The framework of HHGNN
-![image]([Figure1.jpg](https://github.com/HaoWuLab-Bioinformatics/HHGNN/blob/master/model.png))
+![image](https://github.com/HaoWuLab-Bioinformatics/HHGNN/blob/master/model.png)
 
 ## Overview
 The folder "**data**" contains all data used.  
