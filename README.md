@@ -23,7 +23,6 @@ torch==1.1.0
 torchvision==0.2.2  
 networkx==2.2  
 
-numpy   
 See "**requirements.txt"** for all detailed libraries.  
 Other developers can use the following command to install the dependencies contained in "**requirements.txt"**:
 `pip install -r requirements.txt`  
